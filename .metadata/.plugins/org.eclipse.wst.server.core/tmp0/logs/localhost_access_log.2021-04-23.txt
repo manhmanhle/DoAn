@@ -1,0 +1,4 @@
+127.0.0.1 - - [23/Apr/2021:22:33:06 +0700] "GET / HTTP/1.1" 404 751
+192.168.1.6 - - [23/Apr/2021:22:33:17 +0700] "GET /spring_mvc/trang-chu HTTP/1.1" 200 16853
+192.168.1.6 - - [23/Apr/2021:22:33:17 +0700] "GET /spring_mvc/template/web/css/style.css HTTP/1.1" 200 2507
+192.168.1.6 - - [23/Apr/2021:22:33:17 +0700] "GET /spring_mvc/template/web/download/FileSaver.min.js HTTP/1.1" 200 2736

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.jaspersoft.studio.preferences.editor.properties.PropertyListFieldEditor$PEditDialog">
+		<item key="dialogX" value="573"/>
+		<item key="dialogY" value="405"/>
+		<item key="dialogWidth" value="500"/>
+		<item key="dialogHeight" value="200"/>
+		<item key="DIALOG_X_ORIGIN" value="-17"/>
+		<item key="DIALOG_Y_ORIGIN" value="389"/>
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="DIALOG_HEIGHT" value="200"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="com.jaspersoft.studio.preferences.fonts.SelectFontSetSetDialog">
+		<item key="dialogX" value="810"/>
+		<item key="dialogY" value="249"/>
+		<item key="dialogWidth" value="300"/>
+		<item key="dialogHeight" value="400"/>
+		<item key="DIALOG_X_ORIGIN" value="351"/>
+		<item key="DIALOG_Y_ORIGIN" value="241"/>
+		<item key="DIALOG_WIDTH" value="300"/>
+		<item key="DIALOG_HEIGHT" value="400"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="com.jaspersoft.studio.preferences.fonts.FontSetDialog">
+		<item key="dialogX" value="-9"/>
+		<item key="dialogY" value="-9"/>
+		<item key="dialogWidth" value="1938"/>
+		<item key="dialogHeight" value="1048"/>
+		<item key="DIALOG_X_ORIGIN" value="-468"/>
+		<item key="DIALOG_Y_ORIGIN" value="-17"/>
+		<item key="DIALOG_WIDTH" value="1938"/>
+		<item key="DIALOG_HEIGHT" value="1048"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="com.jaspersoft.studio.property.descriptor.expression.dialog.JRExpressionEditor">
+		<item key="DIALOG_X_ORIGIN" value="594"/>
+		<item key="DIALOG_Y_ORIGIN" value="71"/>
+		<item key="DIALOG_WIDTH" value="750"/>
+		<item key="DIALOG_HEIGHT" value="680"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		<item key="dialogX" value="585"/>
+		<item key="dialogY" value="62"/>
+		<item key="dialogWidth" value="750"/>
+		<item key="dialogHeight" value="680"/>
+	</section>
+</section>

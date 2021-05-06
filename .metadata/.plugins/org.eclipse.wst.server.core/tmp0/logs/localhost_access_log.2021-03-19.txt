@@ -1,0 +1,7 @@
+127.0.0.1 - - [19/Mar/2021:22:29:34 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [19/Mar/2021:22:29:41 +0700] "GET /spring_mvc/trang-chu HTTP/1.1" 200 4494
+0:0:0:0:0:0:0:1 - - [19/Mar/2021:22:29:41 +0700] "GET /spring_mvc/template/web/css/small-business.css HTTP/1.1" 200 286
+0:0:0:0:0:0:0:1 - - [19/Mar/2021:22:29:41 +0700] "GET /spring_mvc/template/web/vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 155758
+0:0:0:0:0:0:0:1 - - [19/Mar/2021:22:29:41 +0700] "GET /spring_mvc/template/web/vendor/jquery/jquery.min.js HTTP/1.1" 200 88145
+0:0:0:0:0:0:0:1 - - [19/Mar/2021:22:29:41 +0700] "GET /spring_mvc/template/web/vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 78635
+0:0:0:0:0:0:0:1 - - [19/Mar/2021:22:29:42 +0700] "GET /favicon.ico HTTP/1.1" 404 762

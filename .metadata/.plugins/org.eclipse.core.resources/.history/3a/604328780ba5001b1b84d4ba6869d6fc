@@ -1,0 +1,18 @@
+package com.laptrinhjavaweb.dto;
+
+public class DonViDTO {
+	private Long iddv;
+	private String tendv;
+	public Long getIddv() {
+		return iddv;
+	}
+	public void setIddv(Long iddv) {
+		this.iddv = iddv;
+	}
+	public String getTendv() {
+		return tendv;
+	}
+	public void setTendv(String tendv) {
+		this.tendv = tendv;
+	}
+}
